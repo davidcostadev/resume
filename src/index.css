@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+.font-roboto-condensed {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.font-avenir {
+  font-family: 'Avenir', sans-serif;
+}
