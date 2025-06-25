@@ -29,9 +29,9 @@ export function ResumeTable() {
         <tbody>
           {resume.experience.map((job, i) => (
             <Fragment key={String(i)}>
-              <tr>
-                <td className="pt-2 font-light underline">
-                  {job.role} | {job.company} | {job.location}
+              <tr className="border-b border-gray-300">
+                <td className="pt-2">
+                  <span className="font-semibold">{job.role}</span> | {job.company} | {job.location}
                 </td>
                 <td className="pt-2 text-right">{job.period}</td>
               </tr>
@@ -83,7 +83,7 @@ export function ResumeTable() {
           {resume.activities.map((activity, i) => (
             <Fragment key={String(i)}>
               <tr>
-                <td className="pt-2 font-light underline">{activity.title}</td>
+                <td className="pt-2 font-semibold">{activity.title}</td>
                 <td className="pt-2 text-right">{activity.period}</td>
               </tr>
               <tr>

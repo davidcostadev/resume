@@ -61,7 +61,7 @@ export const resume = {
     },
     {
       role: 'Senior Frontend Engineer / Tech Lead',
-      company: 'PAPA US Miami',
+      company: 'PAPA',
       location: 'Miami, FL / Remote',
       period: 'Jul 2020 – Jul 2023',
       shortDescription:
@@ -180,7 +180,7 @@ export const resume = {
   profiles: [
     {
       title: 'LinkedIn',
-      url: 'https://www.linkedin.com/in/davidcostadev/',
+      url: 'https://www.linkedin.com/in/davidcostadev',
     },
     {
       title: 'GitHub',
@@ -188,7 +188,7 @@ export const resume = {
     },
     {
       title: 'Website',
-      url: 'https://davidcosta.dev.com',
+      url: 'https://davidcosta.dev',
     },
   ],
 };
