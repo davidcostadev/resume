@@ -30,6 +30,35 @@ export const resume = {
   },
   experience: [
     {
+      role: 'Senior Fullstack Engineer / Tech Lead',
+      location: 'Remote',
+      company: 'Scrumlaunch',
+      period: 'Sep 2025 - Present',
+      shortDescription:
+        'An outsourcing company delivering end-to-end software solutions for U.S.-based clients across multiple industries.',
+      highlights: [
+        'Led the full development of an MVP for a solar energy trading platform, working directly with the client from planning to launch',
+        'Built a fullstack negotiation system with real-time features for energy sales workflows',
+        'Currently leading a team as Tech Lead on a second project, building web and mobile applications',
+      ],
+      technologies: [
+        'Next.js',
+        'NestJS',
+        'React Native',
+        'Vite',
+        'GraphQL',
+        'Prisma',
+        'PostgreSQL',
+        'Redis',
+        'AWS',
+        'ECS',
+        'Vercel',
+        'Heroku',
+        'Resend',
+        'TypeScript',
+      ],
+    },
+    {
       role: 'Senior Fullstack Engineer',
       location: 'Newport Beach, CA / Remote',
       company: 'Sur La Table',
