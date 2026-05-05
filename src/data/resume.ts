@@ -46,7 +46,7 @@ export const resume = {
       shortDescription:
         'An outsourcing company delivering end-to-end software solutions for U.S.-based clients across multiple industries.',
       highlights: [
-        'Tech Lead and primary backend engineer on a B2C event-staffing marketplace ("Uber for event workers"), leading a team of 5 engineers (2 mobile, 1 frontend, 2 backend) under Scrum, with the platform supporting ~30k active users during peak events',
+        'Tech Lead and primary backend engineer on an on-demand event-staffing marketplace, leading a team of 5 engineers (2 mobile, 1 frontend, 2 backend) under Scrum, with the platform supporting ~30k active users during peak events',
         'Architected and built backend services using NestJS, GraphQL, and PostgreSQL — including API design, database modeling, and real-time features — while also contributing to the Next.js web app and React Native mobile app',
         'Owned end-to-end delivery of a B2B solar energy trading platform MVP connecting solar project owners with partners and suppliers to accelerate project sales, working directly with the client from planning to launch under Kanban',
         'Drive architecture decisions, code reviews, sprint planning, and mentorship across web, mobile, and backend, with day-to-day backend support and on-call ownership',
