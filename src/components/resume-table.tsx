@@ -84,7 +84,7 @@ export function ResumeTable() {
             <Fragment key={String(i)}>
               <tr>
                 <td className="pt-2 font-semibold">{activity.title}</td>
-                <td className="pt-2 text-right">{activity.period}</td>
+                <td className="pt-2 text-right whitespace-nowrap">{activity.period}</td>
               </tr>
               <tr>
                 <td className="pb-2">{activity.description}</td>
